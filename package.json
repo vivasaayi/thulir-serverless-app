@@ -1,0 +1,22 @@
+{
+  "name": "thulir-serverless-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivasaayi/thulir-serverless-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivasaayi/thulir-serverless-app/issues"
+  },
+  "homepage": "https://github.com/vivasaayi/thulir-serverless-app#readme",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.13.0"
+  }
+}
